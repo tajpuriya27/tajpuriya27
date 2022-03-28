@@ -1,6 +1,3 @@
-### Hi there 👋
-# suneel
-About Me
 
 # Hello Github 👋
 
