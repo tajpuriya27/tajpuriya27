@@ -1,4 +1,21 @@
 ### Hi there 👋
+# suneel
+About Me
+
+# Hello Github 👋
+
+# Welcome to my profile
+
+# <center>Namaste, I'm Suneel Tajpuriya</center>
+
+A Computer Engineering Student.
+
+![gif](https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif)  
+
+Lets get connected on  
+[Facebook](https://facebook.com/tajpuriyasuneel)
+[LinkedIn](https://linkedin.com/in/tajpuriyasuneel)
+
 
 <!--
 **tajpuriyasuneel/tajpuriyasuneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
