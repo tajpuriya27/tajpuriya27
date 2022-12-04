@@ -5,9 +5,7 @@
 
 # <center>Namaste, I'm Suneel Tajpuriya</center>
 
-A Computer Engineering Student.
-
-![gif](https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif)  
+## A Computer Engineering Student.
 
 Lets get connected on  
 [Facebook](https://facebook.com/tajpuriyasuneel)
