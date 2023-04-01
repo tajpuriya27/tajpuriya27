@@ -5,7 +5,7 @@
 
 # <center>Namaste, I'm Suneel Tajpuriya</center>
 
-## A Computer Engineering Student.
+## An Computer Engineering Student.
 
 Lets get connected on  
 [Facebook](https://facebook.com/tajpuriyasuneel)
