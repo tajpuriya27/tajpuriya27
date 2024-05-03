@@ -7,7 +7,8 @@
 <br/>
 <img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" height=300px width=300px>
 
-- 🌱 I’m currently learning **MERN Stack**
+- I'm proficient on MERN Stack
+- I’m currently learning **PHP**
 
 <br/>
 <h3 align="left">Connect with me:</h3>
